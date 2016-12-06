@@ -1,0 +1,16 @@
+body {
+  background-color:violet;
+}
+
+#quoteContainer{
+  width:60%;
+  margin:auto;
+  padding-right:7%;
+  height:250px;
+  margin-bottom:15px;
+}
+
+#twitter {
+  margin-top:-10px;
+}
+
